@@ -277,8 +277,6 @@ a{
 .about-me .about-content .row .img img{
   width: 100%;
   height: auto;
-  -webkit-transform: rotateY(180deg);
-  transform: rotateY(180deg);
 
 }
 
